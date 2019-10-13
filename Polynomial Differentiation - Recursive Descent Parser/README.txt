@@ -1,4 +1,4 @@
-Assignment-6
+POLYNOMIAL DIFFERENTIATION USING RECURSIVE DESCENT PARSING
 
 INPUT: A completely parenthesized polynomial in string format
 
